@@ -7,7 +7,7 @@ Este script de bash te permite mantener una conversación interactiva con el mod
 ## Características
 
 - **Conversación Interactiva:** Mantiene un historial de conversación limitado para un contexto más coherente.
-- **Modelo DeepSeek:** Utiliza el modelo `huihui_ai/deepseek-r1-abliterated:latest` de Ollama (configurable).
+- **Modelo DeepSeek:** Utiliza el modelo `huihui_ai/deepseek-r1-abliterated:latest` de Ollama (Modelo Sin censura, apto para roleo y nsfw, configurar el system prompt).
 - **Síntesis de Voz:** Convierte las respuestas del modelo a audio utilizando la API de Kokoro TTS.
 - **Parámetros Optimizados:** Configuración predeterminada para velocidad de respuesta.
 - **Fácil de Usar:** Interfaz de línea de comandos simple para interactuar con el modelo.
